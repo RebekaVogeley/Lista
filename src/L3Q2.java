@@ -95,6 +95,10 @@ public class L3Q2 {
 				if(!arq.isEndOfFile()){
 					arq.println();
 				}
+				if(!arq.isEndOfFile()){
+					arq.println();
+				}
+				
 			}
 			
 		}
